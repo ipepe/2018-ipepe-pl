@@ -1,0 +1,8 @@
+<div id="skills">
+    <h2 class="heading">Skills</h2>
+    <ul>
+        {% for skill in (site.skills | sort) %}
+        <li>{{ skill }}</li>
+        {% endfor %}
+    </ul>
+</div>

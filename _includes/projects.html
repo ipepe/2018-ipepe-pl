@@ -1,0 +1,19 @@
+<div id="projects" class="background-alt">
+    <h2 class="heading">Projects</h2>
+    <div class="container">
+        <div class="row">
+            {% for proj in site.projects %}
+            <div class="project shadow-large">
+                <div class="project-image">
+                    <img src="{{ proj.img_url }}" />
+                </div>
+                <div class="project-info">
+                    <h3>{{ proj.name}}</h3>
+                    <p>{{ proj.description }}</p>
+                    <a href="{{ proj.url }}">View Project</a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

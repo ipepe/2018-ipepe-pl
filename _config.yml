@@ -1,0 +1,95 @@
+# Customize page from here
+title: page title
+description: page description
+
+lead_name: Your Name
+lead_subtitle: Software Engineer
+lead_backgroud_img_url: "/assets/images/lead-bg.jpg"
+resume_download_link: "/assets/images/project.jpg"
+
+form_email: example@example.org
+copyright_name: Your Copyright here
+
+about_me: >
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat. Donec
+  eu vehicula neque. Donec viverra lorem nunc, tempus euismod eros sollicitudin ut. Quisque et tincidunt libero. Donec id pharetra justo. Proin euismod lacinia dolor, eu scelerisque justo tempus pharetra. Vivamus nunc justo, finibus
+  ut nisl sed, euismod rhoncus nulla. Proin sed magna egestas, egestas ante et, congue eros. In consequat, mauris dapibus tincidunt suscipit, ex libero aliquet diam, at maximus risus enim non leo.
+
+experiences:
+  - employer_name: Stack Overflow
+    title: Senior Question Generator
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+    dates: September 2015 – September 2016
+  - employer_name: Facebook
+    title: Selfie Specialist
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+    dates: September 2014 – September 2015
+
+educations:
+  - school_name: University of Ottawa
+    dates: Sept 2017 - Sept 2018
+    title: Master of Science in Computer Science
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+  - school_name: University of Ottawa
+    dates: Sept 2016 - Sept 2017
+    title: Bachelor of Science in Computer Science
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+
+projects:
+  - name: Google
+    url: http://google.com/
+    img_url: /assets/images/project.jpg
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+  - name: Twitter
+    url: http://twitter.com/
+    img_url: /assets/images/project.jpg
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+
+
+skills:
+  - JavaScript
+  - Python
+  - Ruby
+  - Go
+  - Node.js
+  - AngularJs
+  - React
+  - Elixir
+  - Java
+  - C
+  - C#
+  - C++
+  - Ruby on Rails
+  - JavaScript
+  - Python
+  - Ruby
+  - Go
+  - Node.js
+  - AngularJs
+  - React
+  - Elixir
+  - Java
+  - C
+  - C#
+  - C++
+  - Ruby on Rails
+
+social_buttons:
+  - iconkey: stack-overflow
+    url: https://stackoverflow.com/
+  - iconkey: github
+    url: https://github.com/
+  - iconkey: facebook
+    url: https://www.facebook.com/
+  - iconkey: twitter
+    url: https://www.twitter.com/
+  - iconkey: google-plus
+    url: https://plus.google.com/
+
+#    Jekyll Config & Plugins     #
+markdown: kramdown
+permalink: pretty
+gems:
+ - jekyll-coffeescript
+sass:
+  style: compressed
