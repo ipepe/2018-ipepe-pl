@@ -10,7 +10,6 @@ To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio-
  * Thrown away unecessary javascript animations
  * Thrown away unecessary Google Fonts
  * Upgraded jQuery to 3.2.0
- * Changed to absolute paths instead of relative for files
  * Changed JavasScript to CoffeScript.
  * Everything made configurable from _config.yml file
  

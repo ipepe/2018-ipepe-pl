@@ -4,8 +4,8 @@ description: page description
 
 lead_name: Your Name
 lead_subtitle: Software Engineer
-lead_backgroud_img_url: "/assets/images/lead-bg.jpg"
-resume_download_link: "/assets/images/project.jpg"
+lead_backgroud_img_url: "assets/images/lead-bg.jpg"
+resume_download_link: "assets/images/project.jpg"
 
 form_email: example@example.org
 copyright_name: Your Copyright here
@@ -38,11 +38,11 @@ educations:
 projects:
   - name: Google
     url: http://google.com/
-    img_url: /assets/images/project.jpg
+    img_url: assets/images/project.jpg
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
   - name: Twitter
     url: http://twitter.com/
-    img_url: /assets/images/project.jpg
+    img_url: assets/images/project.jpg
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
 
 
