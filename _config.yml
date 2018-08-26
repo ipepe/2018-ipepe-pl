@@ -100,18 +100,17 @@ projects:
 skills:
   - Ruby on Rails
   - PostgreSQL
-  - Android Development
   - Web Crawling
+  - Three.js (WebGL and Computer Graphics)
   - jQuery vs Vanilla JS
   - Bootstrap CSS
   - "Linux - Debian Family"
   - Git
+  - Android Development
   - Local Network Configuration
   - Windows and Linux Network File Sharing and Backup
-  - Three.js (WebGL and Computer Graphics)
   - Arduino
   - LaTeX
-  - Data Science with Python
   - iOS Development
 
 social_buttons:
