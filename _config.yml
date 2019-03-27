@@ -11,14 +11,14 @@ form_email: homepage@ipepe.pl
 copyright_name: Patryk Ptasiński
 
 about_me: >
-  Curiosity-driven Full Stack Developer. Jack of all trades, master of none. Information Technology enthusiast since childhood. Published multiple packages in NPMjs, DockerHub and a few applications in Google Play Market. Rebuilt several two-stroke engines for sport/racing use. A dozen hours of performed live stream coding. 100k+ views on uploaded YouTube videos. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Hacktoberfest 2017 Participant. Cars and motorcycles enthusiast. Mobile games developer and Bitcoin and Blockchain user.
+  Curiosity-driven Full Stack Developer. Jack of all trades, master of none. Information Technology enthusiast since childhood. Published multiple packages in NPMjs, DockerHub images and a few applications in Google Play Market. Rebuilt several two-stroke engines for street racing use. A dozen hours of performed live stream coding. 1kk+ views on uploaded YouTube videos. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Hacktoberfest 2017 & 2018 Participant. Cars and motorcycles enthusiast. Indie mobile games developer.
 
 experiences:
   - employer_name: Skriware
     title: Senior Three.js/Ruby Developer
     description: 'Responsible for creating a custom Three.js tool'
     stack: 'Ruby on Rails, Three.js'
-    related: 'Wunderlist, 3D Modeling, Shaders, WebGL performance, Architecture'
+    related: 'Wunderlist, 3D Modeling, Shaders, WebGL performance, Systems Architecture'
     dates: 2018 - Present
   - employer_name: DaftCode.pl
     title: Senior Ruby Developer
@@ -100,19 +100,18 @@ projects:
 skills:
   - Ruby on Rails
   - PostgreSQL
-  - Android Development
   - Web Crawling
+  - Three.js (WebGL and Computer Graphics)
   - jQuery vs Vanilla JS
   - Bootstrap CSS
-  - "Linux - Debian Family"
   - Git
+  - "Linux - Debian Family"
+  - Arduino
   - Local Network Configuration
   - Windows and Linux Network File Sharing and Backup
-  - Three.js (WebGL and Computer Graphics)
-  - Arduino
-  - LaTeX
-  - Data Science with Python
+  - Android Development
   - iOS Development
+  - LaTeX
 
 social_buttons:
   - iconkey: github
