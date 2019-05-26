@@ -75,23 +75,15 @@ projects:
   - name: 3Dless.com
     url: https://3dless.com/
     img_url: assets/images/projects/3dless.jpg
-    description: In my spare time of working with Three.js, I created a tool for simplifying 3d models by reducing vertices in mesh.
-  - name: DaftChristmas
-    url: https://ipepe.github.io/dc-design-hackathon/
-    img_url: assets/images/projects/daftchristmas.jpg
-    description: Together with colleague from design we created this scene in Three.js during hackathon in DaftCode. Merry Christmas!
+    description: In my spare time of working with Three.js, I created a tool for simplifying 3d models by reducing vertices in mesh.  
   - name: Skrimarket by Skriware
     url: https://skrimarket.com/
     img_url: assets/images/projects/skrimarket.jpg
-    description: Printing and sharing amazing 3D designs. Created CAD in browser for building 3D models to print.
+    description: Printing and sharing amazing 3D designs. Created something like CAD in browser for building 3D models to print.
   - name: TaxOrder
     url: http://taxorder.pl/
     img_url: assets/images/projects/taxorder.jpg
     description: Very big platform to manage accounting office. A web application that helps customers create invoices, manage employees and calculate taxes under supervision of accountants.
-  - name: Alphatrix
-    url: https://play.google.com/store/apps/details?id=pl.ipepe.android.alphatrix
-    img_url: assets/images/projects/alphatrix.jpg
-    description: Created over few weekends. This mind breaking game is quite addictive, although short... Maybe I will create a continuation for it one day?
   - name: Foosball Open Ranking
     url: https://github.com/ipepe/foosball-open-ranking
     img_url: assets/images/projects/foosball.jpg
