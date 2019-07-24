@@ -11,24 +11,24 @@ form_email: homepage@ipepe.pl
 copyright_name: Patryk Ptasiński
 
 about_me: >
-  Educated and experienced software engineer with broad knowledge in the field of computer sci- ence. Working in IT for almost 10 years and interested in computers since childhood. Worked on wide range of technologies and architectures like desktop, mobile and web applications. Published multiple opensource projects and libraries. Hacktoberfest Participant. Indie games developer. Cars and motorcycles enthusiast. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Rebuilt several two-stroke engines for sport/racing use. Currently exploring 3D Printing combined with microcontrollers and single board computers in areas like IoT, robotics and automation.
+  Educated and experienced software engineer with broad knowledge in the field of computer science. Working in IT for almost 10 years and interested in computers since childhood. Worked on wide range of technologies and architectures like desktop, mobile and web applications. <br/> Published multiple opensource projects and libraries. Hacktoberfest Participant and unofficial ambassador. Indie games developer. Cars and motorcycles enthusiast. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Rebuilt several two-stroke engines for sport/racing use. Currently exploring 3D Printing combined with microcontrollers and single board computers in areas like IoT, robotics and automation.
 
 experiences:
   - employer_name: Skriware
-    title: Senior Three.js/Ruby Developer
-    description: 'Responsible for creating a custom Three.js tool'
-    stack: 'Ruby on Rails, Three.js'
-    related: 'Wunderlist, 3D Modeling, Shaders, WebGL performance, Systems Architecture'
+    title: WebGL, React and Ruby Developer/Azure Cloud Architect
+    description: 'Responsible for creating advanced Three.js based online CAD editor. Also did monitoring and full stack development for Rails application related to 3D Printing and IOT Devices. Managed and scaled Azure infratrucute spanning 8 VM and 30+ containers'
+    stack: 'Three.js, React, React Ruby on Rails, NodeJS, ActionCable, PostgreSQL and Redis'
+    related: 'Azure, Capistrano, MicroServices, Integration, AirBrake (Errbit), Monitoring and GitLab.'
     dates: 2018 - Present
   - employer_name: DaftCode.pl
-    title: Senior Ruby Developer
-    description: "Responsible for planning, estimating and distributing work in project, architecture and quality of code for medium Rails application related to 3D Printing. Created an online 3D models CAD editor."
-    stack: "Bootstrap, Three.js, Ruby on Rails, PostgreSQL, Redis and Elasticsearch."
-    related: "Kanbanery, Capistrano, Integration, AirBrake (Errbit), Monitoring and GitLab."
+    title: Lead Ruby Developer
+    description: "Responsible for planning, estimating and distributing work in a team, architecture and quality of code for medium Rails application"
+    stack: "Bootstrap, Three.js, Ruby on Rails, PostgreSQL, Redis and Elasticsearch"
+    related: "Kanbanery, Capistrano, Integration, AirBrake (Errbit), Monitoring and GitLab"
     dates: 2017
   - employer_name: In4mates.com
     title: Lead Ruby Developer
-    description: "Technical lead developer in a big project related to the accounting. Managed team of 5 developers. Responsible for architecture, maintenance, deployment - whole system development life cycle."
+    description: "Lead developer in a big project related to the accounting and business processes. Managed team of 5 developers. Responsible for architecture, maintenance, deployment - whole system development life cycle"
     stack: "Bootstrap, EmberJS, Bower, NPM, Ruby on Rails, PostgreSQL and Docker"
     related: "Jenkins, Redmine, Capistrano, Vagrant, Integration, Monitoring and GitLab."
     dates: 2015 - 2017
@@ -72,39 +72,41 @@ educations:
     related: Java, SQL, UML
 
 projects:
-  - name: 3Dless.com
-    url: https://3dless.com/
-    img_url: assets/images/projects/3dless.jpg
-    description: In my spare time of working with Three.js, I created a tool for simplifying 3d models by reducing vertices in mesh.  
+  - name: Skribots Creator by Skriware
+    url: https://skriware.com/robots/creator
+    img_url: assets/images/projects/creator.jpg
+    description: Creator is an online tool where, thanks to original Skriware blocks system, you can design any robot or construction and print it on a Skriware 3D printer.
   - name: Skrimarket by Skriware
     url: https://skrimarket.com/
     img_url: assets/images/projects/skrimarket.jpg
-    description: Printing and sharing amazing 3D designs. Created something like CAD in browser for building 3D models to print.
+    description: Print and share amazing 3D designs. A dedicated market with high quality models for Skriware 3D printer.
   - name: TaxOrder
-    url: http://taxorder.pl/
+    url: https://web.archive.org/web/20180810121414/http://taxorder.pl/
     img_url: assets/images/projects/taxorder.jpg
-    description: Very big platform to manage accounting office. A web application that helps customers create invoices, manage employees and calculate taxes under supervision of accountants.
-  - name: Foosball Open Ranking
-    url: https://github.com/ipepe/foosball-open-ranking
-    img_url: assets/images/projects/foosball.jpg
-    description: In our company there was always a doubt who is the best in Foosball. So I created this ranking website to reveal the best players!
+    description: Tax Order is modern approach to managing big accounting offices. It offers a powerful system for designing any waterfall-style business processes. It also features client facing portal where You can generate or upload invoices, manage employee contracts and consult any law or accounting problems.
 
 skills:
   - Ruby on Rails
+  - JavaScript(Browser and NodeJS)
   - PostgreSQL
   - Web Crawling
-  - Docker Composing
-  - Three.js (WebGL and Computer Graphics)
-  - jQuery vs Vanilla JS
-  - Bootstrap CSS
+
+  - Network File Sharing and Backup
+  - Local Network Configuration for Windows and Linux
+  - GameDev
   - Git
-  - "Linux - Debian Family"
-  - Arduino
-  - Local Network Configuration
-  - Windows and Linux Network File Sharing and Backup
+  - Linux - Ubuntu/Debian Family
+  - Reverse Engineering
+  - 3D Modelling
+  - FDM 3D Printing
   - Android Development
   - iOS Development
-  - LaTeX
+  - Arduino/C++
+  - AI and Data Science
+  - Electronics
+  - PCB making
+  - Raspberry PI Development
+
 
 social_buttons:
   - iconkey: github
