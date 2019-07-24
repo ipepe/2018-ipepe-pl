@@ -16,7 +16,7 @@ about_me: >
 experiences:
   - employer_name: Skriware
     title: WebGL, React and Ruby Developer/Azure Cloud Architect
-    description: 'Responsible for creating advanced Three.js based online CAD editor. Also did monitoring and full stack development for Rails application related to 3D Printing and IOT Devices. Managed and scaled Azure infratrucute spanning 8 VM and 30+ containers'
+    description: 'Responsible for creating advanced Three.js based online CAD editor. Also did monitoring and full stack development for Rails application related to 3D Printing and IOT Devices. Managed and scaled Azure infrastructure spanning 8 VM and 30+ containers'
     stack: 'Three.js, React, React Ruby on Rails, NodeJS, ActionCable, PostgreSQL and Redis'
     related: 'Azure, Capistrano, MicroServices, Integration, AirBrake (Errbit), Monitoring and GitLab.'
     dates: 2018 - Present
