@@ -11,9 +11,15 @@ form_email: homepage@ipepe.pl
 copyright_name: Patryk Ptasiński
 
 about_me: >
-  Educated and experienced software engineer with broad knowledge in the field of computer science. Working in IT for almost 10 years and interested in computers since childhood. Worked on wide range of technologies and architectures like desktop, mobile and web applications. <br/> Published multiple opensource projects and libraries. Hacktoberfest Participant and unofficial ambassador. Indie games developer. Cars and motorcycles enthusiast. Driving licence since the age of 16 with the result of 200’000+ kilometres driven to date. Rebuilt several two-stroke engines for sport/racing use. Currently exploring 3D Printing combined with microcontrollers and single board computers in areas like IoT, robotics and automation.
+  Pragmatic Software Engineer with over a decade of diverse experience, specializing in optimizing legacy Ruby on Rails monolithic applications and complimenting them with Serverless or Microservice structures. Demonstrated management skills with quick learning ability and effective communication. Active in open-source community and proficient in security and performance optimization.
 
 experiences:
+  - employer_name: Visuality.pl
+    title: Lead Ruby on Rails Developer 2019 to Present
+    description: 'Maintaining legacy code, developing complex algorithms, and optimizing system integration. Demonstrated proficiency in working within structured teams on diverse projects in sectors like accounting, invoicing, document processing, and business workflows for global clients. Key projects include enhancing backends for shopping apps, refining API applications, extending crawler code for document gathering platforms, rewriting server-side rendered views into JSON-API for recruitment apps, and working on optimizing architecture for fintech systems. Noted for problem-solving abilities, efficiency, and commitment to quality.'
+    stack: 'Ruby on Rails, React, PostgreSQL, GraphQL, JSON:API, Redis, ElasticSearch, Microservice and Monolithic Architectures.'
+    related: 'AWS, Heroku, Rollbar, NewRelic, Github, Rubocop and Brakeman'
+    dates: 2019 - Present
   - employer_name: Skriware
     title: WebGL, React and Ruby Developer/Azure Cloud Architect
     description: 'Responsible for creating advanced Three.js based online CAD editor. Also did monitoring and full stack development for Rails application related to 3D Printing and IOT Devices. Managed and scaled Azure infrastructure spanning 8 VM and 30+ containers'
