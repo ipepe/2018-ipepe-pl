@@ -5,7 +5,7 @@ description: Welcome to Patryk Ptasiński official website! You can check brief 
 
 lead_name: Patryk Ptasiński
 lead_subtitle: Pragmatic Software Engineer
-resume_download_link: "assets/resumes/Patryk_Ptasinski_Resume_2023.pdf"
+resume_download_link: "assets/resumes/Ptasinski_Patryk_Resume_2023-08.pdf"
 
 form_email: homepage@ipepe.pl
 copyright_name: Patryk Ptasiński
@@ -15,7 +15,7 @@ about_me: >
 
 experiences:
   - employer_name: Visuality.pl
-    title: Lead Ruby on Rails Developer 2019 to Present
+    title: Lead Ruby on Rails Developer
     description: 'Maintaining legacy code, developing complex algorithms, and optimizing system integration. Demonstrated proficiency in working within structured teams on diverse projects in sectors like accounting, invoicing, document processing, and business workflows for global clients. Key projects include enhancing backends for shopping apps, refining API applications, extending crawler code for document gathering platforms, rewriting server-side rendered views into JSON-API for recruitment apps, and working on optimizing architecture for fintech systems. Noted for problem-solving abilities, efficiency, and commitment to quality.'
     stack: 'Ruby on Rails, React, PostgreSQL, GraphQL, JSON:API, Redis, ElasticSearch, Microservice and Monolithic Architectures.'
     related: 'AWS, Heroku, Rollbar, NewRelic, Github, Rubocop and Brakeman'
